@@ -6,7 +6,8 @@
                 Assignment 1 (Individual)
  Author      : [WAN NUR AZIMAH BINTI WAN RAHMAT]
  Date        : [26/11/2025]
- GitHub      : https://github.com/username/STIWK3014-Assignment1
+ GitHub      : https://github.com/wnzimah/STIWK3014-Assignment1-individual.git
+
  ----------------------------------------------------------------------------
  Overview:
  This console-based Java program analyzes a user-selected directory to:
